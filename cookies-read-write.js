@@ -15,7 +15,9 @@ function writeCookie(name, value, hours){
 }
 // Example:
 // alert( readCookie("myCookie") );
-
+/*
+test
+*/
 function readCookie(name){
   var cookieValue = "";
   var search = name + "=";
@@ -30,4 +32,6 @@ function readCookie(name){
   }
   return cookieValue;
 }
-/**/
+/*
+test
+*/
