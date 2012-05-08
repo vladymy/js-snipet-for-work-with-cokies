@@ -30,3 +30,4 @@ function readCookie(name){
   }
   return cookieValue;
 }
+/**/
